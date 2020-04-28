@@ -87,7 +87,7 @@ a {
 
 .bagian-utama {
     padding: 120px 0 100px 0;
-    background-image: url(assets/gambar.jpeg);
+    background-image: url(gambar.jpeg);
     background-size: cover;
     color: white;
     text-align: center;
